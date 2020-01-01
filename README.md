@@ -10,18 +10,8 @@ Let `X` be a set. A function `d: X × X → R` is called a *distance* on `X` if,
 
 A metric space `(X,d)` is a set `X` equipped with a distance `d`.
 
-## Books
+## Resources
 
-# Encyclopedia of Distances
-
-by Michel Marie Deza and Elena Deza
-
-- [pdf](http://www.uco.es/users/ma1fegan/Comunes/asignaturas/vision/Encyclopedia-of-distances-2009.pdf)
-
-# Sam's String Metrics
-
-- [archive](http://web.archive.org/web/20081224234350/http://www.dcs.shef.ac.uk/~sam/stringmetrics.html)
-
-# Various
-
+- Encyclopedia of Distances by Michel Marie Deza and Elena Deza, [pdf](http://www.uco.es/users/ma1fegan/Comunes/asignaturas/vision/Encyclopedia-of-distances-2009.pdf)
+- Sam's String Metrics, [archive](http://web.archive.org/web/20081224234350/http://www.dcs.shef.ac.uk/~sam/stringmetrics.html)
 - http://infolab.stanford.edu/~ullman/mmds/ch3.pdf
